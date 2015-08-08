@@ -1,0 +1,1 @@
+To run any of these scripts, ensure that "household_power_consumption.txt" is in the working directory.
